@@ -1,0 +1,8 @@
+:root {
+    --light-gray: hsl(204, 43%, 93%);
+    --cyan: hsl(179, 62%, 43%);
+    --bright-yellow: hsl(71, 73%, 54%);
+    --purple: #6c00de;
+    --smooth-cyan: hwb(179 11% 17%);
+    --grayish-blue: hsl(218, 22%, 67%);
+}
